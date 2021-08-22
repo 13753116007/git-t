@@ -8,5 +8,6 @@ public class GitTdemo {
         System.out.println("hello git fouth ");
         System.out.println("master T ");
         System.out.println("hello git hot-fix T ");
+        System.out.println("pullllllllll ");
     }
 }
